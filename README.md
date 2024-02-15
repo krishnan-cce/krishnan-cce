@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnan-cce&label=Profile%20views&color=0e75b6&style=flat" alt="krishnan-cce" /> </p>
 
-- 🔭 I’m currently working on **zeapp : Quiz App with backend as API**
-
-- 🌱 I’m currently learning **Kotlin,Java Spring Boot**
-
 - 💬 Ask me about **Kotlin , Java**
 
 - 📫 How to reach me **krishnanvenugopal707@gmail.com**
