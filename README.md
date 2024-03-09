@@ -24,6 +24,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/krishna99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/krishna99" /></a></p><br><br>
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnan-cce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnan-cce&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnan-cce&show_icons=true&locale=en&layout=compact" alt="krishnan-cce" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnan-cce&show_icons=true&locale=en" alt="krishnan-cce" /></p>
