@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[https://github.com/krishnan-cce/krishnan-cce/blob/main/assets/banner.png](https://duckduckgo.com/?q=jaava+developer&t=raspberrypi&ia=images&iax=images&iai=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7250161.png)" alt="Krishnan KV Banner" width="100%" />
+  <img src="https://github.com/krishnan-cce/krishnan-cce/blob/main/assets/banner.png" alt="Krishnan KV Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishnan KV</h1>
