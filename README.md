@@ -23,7 +23,7 @@
 - 💡 Building ERP and stock management systems using Spring Boot, PostgreSQL, and Redis  
 - 📱 Developing cross-platform apps using **Flutter**  
 - 🧠 Continuously learning — Kotlin, GraphQL, DevOps practices  
-- 📫 Reach me at: **krishnankv.dev@gmail.com**
+- 📫 Reach me at: **krishnanvenugopal707@gmail.com**
 
 ---
 
