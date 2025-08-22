@@ -8,12 +8,7 @@
   🚀 Passionate Software Engineer | Java & Kotlin Backend Specialist | Flutter & Node.js Enthusiast
 </p>
 
-<p align="center">
-  <a href="https://github.com/krishnan-cce">
-    <img src="https://komarev.com/ghpvc/?username=krishnan-cce&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
+ 
 ---
 
 ## 👨‍💻 About Me
