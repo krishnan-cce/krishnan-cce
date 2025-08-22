@@ -45,10 +45,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-cce&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=krishnan-cce&theme=algolia&hide_border=true"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
