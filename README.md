@@ -29,7 +29,7 @@
 - **Mobile:** `Flutter`, `Firebase`, `Jetpack Compose`  
 - **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`  
 - **Messaging & Caching:** `Kafka`, `Redis`  
-- **DevOps & Tools:** `Docker`, `Git`, `Postman`, `IntelliJ`, `VS Code`, `Jenkins`, `GitHub Actions`
+- **DevOps & Tools:** `Docker`, `Git`, `Postman`, `IntelliJ`, `VS Code`, `GitHub Actions`
 
 ---
 
