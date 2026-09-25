@@ -14,22 +14,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on scalable backend systems and microservices  
-- 🌱 Exploring containerization, Kafka, and cloud-native app development  
-- 💡 Building ERP and stock management systems using Spring Boot, PostgreSQL, and Redis  
-- 📱 Developing cross-platform apps using **Flutter**  
-- 🧠 Continuously learning — Kotlin, GraphQL, DevOps practices  
+- 🧠 Continuously learning   
 - 📫 Reach me at: **krishnasuresh208103@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** `Java`, `Kotlin`, `Python`, `JavaScript`, `Dart`  
-- **Backend:** `Spring Boot`, `Node.js`, `Express.js`  
-- **Mobile:** `Flutter`, `Firebase`, `Jetpack Compose`  
-- **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`  
-- **Messaging & Caching:** `Kafka`, `Redis`  
-- **DevOps & Tools:** `Docker`, `Git`, `Postman`, `IntelliJ`, `VS Code`, `GitHub Actions`
 
 ---
 
