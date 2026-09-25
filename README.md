@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/krishnan-cce/krishnan-cce/blob/main/assets/banner.png" alt="Krishnan KV Banner" width="100%" />
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <p align="center">
@@ -28,13 +28,13 @@
 
 ---
 
-## 📫 Connect With Me
+<!-- ## 📫 Connect With Me -->
 
-<p align="center">
-  <!-- <a href="https://linkedin.com/in/krishnan-kv" target="_blank">
+<!-- <p align="center">
+  <a href="https://linkedin.com/in/krishnan-kv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a> -->
+  </a>
   <a href="mailto:krishnasuresh208103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+</p> -->
