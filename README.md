@@ -17,16 +17,7 @@
 - 🧠 Continuously learning   
 - 📫 Reach me at: **krishnasuresh208103@gmail.com**
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnan-cce&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-cce&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
----
 
 <!-- ## 📫 Connect With Me -->
 
