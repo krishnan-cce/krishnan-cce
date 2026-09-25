@@ -3,9 +3,9 @@
   <img src="https://github.com/krishnan-cce/krishnan-cce/blob/main/assets/banner.png" alt="Krishnan KV Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Krishnan KV</h1>
+<h1 align="center">Hi 👋, I'm Krishna</h1>
 <p align="center">
-  🚀 Passionate Software Engineer | Java & Kotlin Backend Specialist | Flutter & Node.js Enthusiast
+  🚀 Passionate Software Engineer 
 </p>
 
  
@@ -18,7 +18,7 @@
 - 💡 Building ERP and stock management systems using Spring Boot, PostgreSQL, and Redis  
 - 📱 Developing cross-platform apps using **Flutter**  
 - 🧠 Continuously learning — Kotlin, GraphQL, DevOps practices  
-- 📫 Reach me at: **krishnanvenugopal707@gmail.com**
+- 📫 Reach me at: **krishnasuresh208103@gmail.com**
 
 ---
 
@@ -45,10 +45,10 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/krishnan-kv" target="_blank">
+  <!-- <a href="https://linkedin.com/in/krishnan-kv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:krishnankv.dev@gmail.com">
+  </a> -->
+  <a href="mailto:krishnasuresh208103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
